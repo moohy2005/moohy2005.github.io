@@ -7,7 +7,7 @@ Welcome to my github REU-AICT git page. Here are the link to my url website http
 It is still a work in progres.. 
 
 
-@2020/2021 Michelle Olson. All Rights Reserved.
+@2021 Michelle Olson. All Rights Reserved.
 
 # Feature
 
