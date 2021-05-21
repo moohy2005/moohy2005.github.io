@@ -8,17 +8,14 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My name is Dylan Christoffels. I am entering my senior
-year at Gallaudet University and am part of their soccer
-team. I am from The Learning Center for the Deaf in
-Massachusetts. My goal for this internship is to enhance my
+My name is Michelle. I am entering my junior
+year at Rochester Institute of Technology.  My goal for this internship is to enhance my
 experience and knowledge of technology with
-communication. My future goal is to secure a good job and
-be a soccer coach at a school for the Deaf.
+communication. 
 
 ## About My Mentor
 
-My mentor is Dr. Christian.
+My mentor is Dr. Williams.
 
 ## About My Project
 
