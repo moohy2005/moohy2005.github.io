@@ -3,7 +3,7 @@
 
 
 # Introduction
-Welcome to my github REU-AICT git page. Here are the link to my url website https://moohy2005.github.io/REU-AICT/ 
+Welcome to my github REU-AICT github page. Here are the link to my url website https://moohy2005.github.io/REU-AICT/ 
 It is still a work in progres.. 
 
 
