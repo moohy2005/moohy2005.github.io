@@ -1,21 +1,27 @@
-Testing... 
+# <img src = images\HiccupNtoothless.jpg width = 84/> Michelle Olson's GitHub website  
 
-## Local Development
 
-If you want to edit your website on your own computer rather than at GitHub.com, follow these instructions.
 
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork: `git clone https://github.com/myname/myname.github.io.git`.
-3. Serve the site locally on your computer: `jekyll serve`.
-4. View your website at http://127.0.0.1:4000/.
-5. Commit any changes and push everything to the master branch of your GitHub user repository: `git commit -m "message here"`; then `git push -u origin master`. GitHub Pages will then rebuild and serve your website publicly.
+# Introduction
+Welcome to my github REU-AICT git page. Here are the link to my url website https://moohy2005.github.io/REU-AICT/ 
+It is still a work in progres.. 
 
-## Additional Tips and Help
 
-- [GitHub pointers](https://help.github.com/en/github/getting-started-with-github)
-- [GitHub pages](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
-- [Markdown](https://www.markdownguide.org/basic-syntax#links)
-- [Jekyll](https://jekyllrb.com)
-- [Jekyll tips](https://devhints.io/jekyll)
+@2020/2021 Michelle Olson. All Rights Reserved.
 
-This site is based on [Jekyll Now](https://github.com/barryclark/jekyll-now).
+# Feature
+
+- blogs
+- my mentor
+- my team
+- etc? 
+
+
+# About me 
+<img src = images\moiNYC.jpg width = 100/>
+
+- I am fan of "How to Train your Dragon" 1,2,3!! 
+- I love traveling when I can.
+- So far I had been to 20 states of United States. Hopefully someday I coud claim that I had been to 50 states.
+
+
