@@ -1,4 +1,4 @@
-# <img src = images\HiccupNtoothless.jpg width = 84/> Michelle Olson's GitHub website  
+# <img src = images\HiccupNtoothless.jpg width = 84/> Michelle Olson's GitHub website <img src = images\moiNYC.jpg width = 84/> 
 
 
 
@@ -18,7 +18,7 @@ It is still a work in progres..
 
 
 # About me 
-<img src = images\moiNYC.jpg width = 100/>
+
 
 - I am fan of "How to Train your Dragon" 1,2,3!! 
 - I love traveling when I can.
