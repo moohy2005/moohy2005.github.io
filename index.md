@@ -23,13 +23,14 @@ My goal for this internship is to enhance my research skills and improve my skil
 
 ## About My Mentors
 
-My mentor is Dr. Williams.
+My mentor is Dr. Norman Williams and my graduate mentor is Katja Jacobs.
+My supervisor and co=supervisor is Dr. Raja Kushalnagar and Dr. Christian Vogler. 
 
 ## About My Project
 
 WebRTC (Real-Time Communication) and RTT (Real Time Text):
 
-Description will be add
+Description will be add...
 
 [My Final Report](files/finalreport.pdf)
 
