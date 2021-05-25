@@ -20,7 +20,7 @@ html {
 body {
 	background: #3d3d3d;
   font: 18px/1.4 'Times New Roman', bold;
-  color: $white;
+  color: #c2c2c2;
 }
 
 .container {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: yellow;
+  color:#4eb4e7;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #3d3d3d  ;
+  background-color: #c2c2c2  ;
 }
 
 footer {
