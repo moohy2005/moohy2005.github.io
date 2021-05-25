@@ -35,8 +35,8 @@ Description will be add...
 
 ## Final Report
 
-my final report can be found at [My Final Report](files/finalreport.pdf)
+Coming Soon:  My final report can be found at [My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
-Check out my weekly journal of my internship: [Blog] (blog.html)
+Check out my weekly journal of my internship: [Blog](blog.html)
