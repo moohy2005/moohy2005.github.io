@@ -32,8 +32,8 @@ WebRTC (Real-Time Communication) and RTT (Real Time Text):
 
 Description will be add...
 
-[My Final Report file](files/finalreport.pdf)
+[My Final Report]my final report can be found at (files/finalreport.pdf)
 
 ## My Blog
 
-[Blogs](blog.html)
+[Blog] my blogs can be found at (blog.html)
