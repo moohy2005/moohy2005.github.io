@@ -13,8 +13,8 @@ It is still a work in progres..
 
 - blogs
 - my mentor
-- my team
-- etc? 
+- final project
+- coming soon
 
 
 # About me 
