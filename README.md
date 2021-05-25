@@ -19,7 +19,6 @@ It is still a work in progres..
 
 # About me 
 
-
 - I am fan of "How to Train your Dragon" 1,2,3!! 
 - I love traveling when I can.
 - So far I had been to 20 states of United States. Hopefully someday I coud claim that I had been to 50 states.
