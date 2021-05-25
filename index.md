@@ -12,7 +12,6 @@ title: Summer 2021 DREU Project Site
 - I was born and rasied about 20 mins away from Los Angles, California. 
 - I attended California School for the Deaf, Riverside. 
 - I am student of Rochester Institute of Technology 
-# <img src = images\RITlogo.png width = 84/>  
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams.
 
 ## Fun Facts
@@ -40,4 +39,4 @@ my final report can be found at [My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
-Check out my weekly blog journal of my internship : [Blog] (blog.html)
+Check out my weekly journal of my internship: [Blog] (blog.html)
