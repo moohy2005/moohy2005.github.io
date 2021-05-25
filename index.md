@@ -14,8 +14,6 @@ title: Summer 2021 DREU Project Site
 - I am student of Rochester Institute of Technology 
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams.
 
-# <img src = images\HiccupNtoothless.jpg width = 84/> 
-
 ## Fun Facts
 - I love reading! I probably have read zillions books (both physically and online).
 - I love my nephews and neice! 
