@@ -11,7 +11,8 @@ title: Summer 2021 DREU Project Site
 - My name is Michelle. Duh!
 - I was born and rasied about 20 mins away from Los Angles, California. 
 - I attended California School for the Deaf, Riverside. 
-- I am student of Rochester Institute of Technology <img src = images\RITlogo.png width = 84/>  
+- I am student of Rochester Institute of Technology 
+# <img src = images\RITlogo.png width = 84/>  
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams.
 
 ## Fun Facts
