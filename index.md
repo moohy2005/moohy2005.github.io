@@ -6,12 +6,12 @@ title: Summer 2021 DREU Project Site
 * TOC
 {:toc}
 
-## About Me
+## About Moi
 
-My name is Michelle. 
+- My name is Michelle. Duh!
 - I was born and rasied about 20 mins away from Los Angles, California. 
 - I attended California School for the Deaf, Riverside. 
-- I am entering my junior year at Rochester Institute of Technology.  
+- I am student of Rochester Institute of Technology <img src = images\RITlogo.png width = 84/>  
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams.
 
 ## Fun Facts
@@ -21,25 +21,22 @@ My name is Michelle.
 - I now live in Texas :( 
 
 
-## About My Mentors
+## My Mentors
+- Supervisor: Dr. Raja Kushalnagar
+- co-supervisor: Dr. Christian Vogler. 
+- Main mentor: Dr. Norman Williams
+- Graduate mentor: Katja Jacobs
 
-My mentor is Dr. Norman Williams and my graduate mentor is Katja Jacobs.
-My supervisor and co-supervisor is Dr. Raja Kushalnagar and Dr. Christian Vogler. 
-
-## About My Project
+## My Project
 
 WebRTC (Real-Time Communication) and RTT (Real Time Text):
 
 Description will be add...
 
-## Report
+## Final Report
 
-my final report can be found at 
-
-[My Final Report](files/finalreport.pdf)
+my final report can be found at [My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
-Check out my weekly blog journal of my internship
-
-[Blog] (blog.html)
+Check out my weekly blog journal of my internship : [Blog] (blog.html)
