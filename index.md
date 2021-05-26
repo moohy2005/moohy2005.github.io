@@ -9,7 +9,7 @@ title: Summer 2021 DREU Project Site
 ## About Moi
 
 - My name is Michelle. Duh!
-- I was born and rasied about 20 mins away from Los Angles, California 
+- I was born and raised about 20 minutes away from Los Angles, California 
 - I attended California School for the Deaf, Riverside
 - I am student of Rochester Institute of Technology 
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams
@@ -24,7 +24,7 @@ title: Summer 2021 DREU Project Site
 
 ## My Mentors
 - Supervisor: Dr. Raja Kushalnagar
-- co-supervisor: Dr. Christian Vogler 
+- Co-supervisor: Dr. Christian Vogler 
 - Main mentor: Dr. Norman Williams
 - Graduate mentor: Katja Jacobs
 
@@ -32,7 +32,7 @@ title: Summer 2021 DREU Project Site
 
 WebRTC (Real-Time Communication) and RTT (Real Time Text):
 
-Description will be add...
+Description coming soon...
 
 ## Final Report
 
