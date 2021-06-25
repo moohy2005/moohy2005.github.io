@@ -8,13 +8,13 @@ title: Summer 2021 DREU Project Site
 
 ## About Moi
 
-- My name is Michelle. Duh!
+- My name is Michelle Duh!
 - I was born and raised about 20 minutes away from Los Angles, California 
-- I attended California School for the Deaf, Riverside
+- I attended California School for the Deaf, Riverside long time ago :P
 - I am student of Rochester Institute of Technology 
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams
 
-## Fun Facts
+## Interesting Facts
 - I am storage owner of 5 people of one unit!! LOL
 - I love reading! I probably have read zillions books (both physically and online)
 - I love my nephews and niece
