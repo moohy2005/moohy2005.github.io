@@ -15,7 +15,7 @@ title: Summer 2021 DREU Project Site
 - My goal for this internship is to enhance my research skills and improve my skills working with larger teams
 
 ## Interesting Facts
-- I am storage owner of 5 people of one unit!! LOL
+- I am storage owner of 5 1/2 people of one unit!! LOL
 - I love reading! I probably have read zillions books (both physically and online)
 - I love my nephews and niece
 - I love traveling
