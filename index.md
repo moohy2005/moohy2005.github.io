@@ -47,7 +47,7 @@ title: Summer 2021 DREU Project Site
 
 WebRTC (Real-Time Communication) and RTT (Real Time Text):
 
-The purpose of this research is to increase the accessibility of captions in WebRTC and RTT in order to ease the transmitting of information during conversation between a vocally speaking user and deaf or hard of hearing user. In this paper, we look into which settings are preferred and if they are influenced by a multitude of factors. We propose that WebRTC applications include dynamic caption as a captioning option which is a setting where the caption is attached next to the speaker's head and a texting setting that allows RTT communication in a letter-by-letter format.
+The purpose of this research is to increase the accessibility of captions in WebRTC and RTT in order to ease the transmitting of information during conversation between a user speaking orally and deaf or hard of hearing user. In this paper, we look into which settings are preferred and if they are influenced by a multitude of factors. We propose that WebRTC applications include dynamic caption, which is a setting where the caption is displayed next to the speaker's head and a texting setting that allows RTT communication in a letter-by-letter format, as captioning options.
 
 ## Final Report
 
