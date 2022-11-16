@@ -1,4 +1,4 @@
-# <img src = images\HiccupNtoothless.jpg width = 84/> Michelle Olson's GitHub website <img src = images\moiNYC.jpg width = 84/> 
+# <img src = images/HiccupNtoothless.jpg width = 84/> Michelle Olson's GitHub website <img src = images/moiNYC.jpg width = 84/> 
 
 
 
@@ -15,10 +15,9 @@ Welcome to my github REU-AICT github page. Here are the link to my url website h
 - final project
 - coming soon
 
+# About me
 
-# About me 
-
-- I am fan of "How to Train your Dragon" 1,2,3!! 
+- I am fan of "How to Train your Dragon" 1,2,3!!
 - I love traveling when I can.
 - So far I had been to 20 states of United States. Hopefully someday I coud claim that I had been to 50 states.
 
