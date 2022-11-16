@@ -9,7 +9,7 @@ name: Michelle Olson
 description: Summer 2021 REU AICT Research Intern
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/moohy2005/moohy2005.github.io/blob/492730f2f79b5354e7a040786fa6a1fd8b98b65d/images/HiccupNtoothless.jpg
+avatar: https://github.com/moohy2005/moohy2005.github.io/images/HiccupNtoothless.jpg
 
 #
 # Flags below are optional
@@ -31,7 +31,7 @@ url: https://moohy2005.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/moohy2005.github.io"
+baseurl: "https://moohy2005.github.io/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
